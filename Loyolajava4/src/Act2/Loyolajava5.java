@@ -1,5 +1,5 @@
 
-package loyolajava5;
+package Act2;
 
 import java.util.Scanner;
 

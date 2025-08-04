@@ -1,4 +1,4 @@
-package loyolajava4;
+package Act1;
 import java.util.Scanner;
 
 public class Loyolajava4 {
