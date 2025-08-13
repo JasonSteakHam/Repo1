@@ -2,7 +2,7 @@
 package main;
 
 import java.util.Scanner;
-import bangking.bangkingClass;
+import banking.bankingClass;
 /**
  *
  * @author SCC-COLLEGE
@@ -24,7 +24,7 @@ public class bankapp {
         switch(choice){
             case 1:
                 while(attemp != 0){
-                    bangkingClass bank = new bangkingClass();
+                    bankingClass bank = new bankingClass();
 
                     System.out.println("Enter your Account No: ");
                     int accountNo = sc.nextInt();

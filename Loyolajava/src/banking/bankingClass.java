@@ -1,12 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package bangking;
+package banking;
 import java.util.Scanner;
 
-public class bangkingClass {
+public class bankingClass {
     int accountNo = 10001;
     String name;
     float initialBalance = 0;

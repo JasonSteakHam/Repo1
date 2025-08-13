@@ -1,7 +1,7 @@
 package Act1;
 import java.util.Scanner;
 
-public class Loyolajava4 {
+public class Loyolaact1 {
 
    
     public static void main(String[] args) {
